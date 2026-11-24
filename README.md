@@ -19,8 +19,9 @@
 
 ## 我用的技术
 
-**工作常用：
+**工作常用：Java、Spring Boot、MySQL、Redis**  
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis" alt="Java、Spring Boot、MySQL、Redis" height="36">
 
-**个人项目：
+**个人项目：Go、TypeScript、SvelteKit、Godot**  
 <img src="https://skillicons.dev/icons?i=go,ts,svelte,godot" alt="Go、TypeScript、SvelteKit、Godot" height="36">
+
